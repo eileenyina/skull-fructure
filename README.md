@@ -1,0 +1,2 @@
+# skull-fructure
+Collaborating with Beijing Biomind Medical Technology Co., Ltd., our team detect skull fractures in computed tomography（CT）figures from Tiantan Hospital in Beijing and distinguish them from bone sutures by using artificial intelligence methods. Yolo, Resnet, U-Net, and other networks were used to locate and segment the fractures. The 88% of recall rate and 96% of accuracy rate were achieved in our final model. Then Graphical User Interface was used to produce software demo.
